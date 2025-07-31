@@ -18,10 +18,10 @@ My name is Alejandra Lorena Rachich, but people know me as Lore or Alexa.<br>I'm
 ![](https://github-profile-trophy.vercel.app/?username=Alexa-2k&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
-[![](https://github-contributor-stats.vercel.app/api?username=Alexa-2k&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo-->
+<!--[![](https://github-contributor-stats.vercel.app/api?username=Alexa-2k&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)-->
 
 
-[![](https://visitcount.itsvg.in/api?id=Alexa-2k&icon=9&color=4)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=Alexa-2k&icon=9&color=4)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
