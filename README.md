@@ -22,6 +22,6 @@ My name is Alejandra Lorena Rachich, people know me as Lore or Alexa.<br>I'm a p
 <!--[![](https://github-contributor-stats.vercel.app/api?username=Alexa-2k&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)-->
 
 
-<!--[![](https://visitcount.itsvg.in/api?id=Alexa-2k&icon=9&color=4)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=Alexa-2k&icon=9&color=4)](https://visitcount.itsvg.in) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
