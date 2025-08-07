@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-My name is Alejandra Lorena Rachich, but people know me as Lore or Alexa.<br>I'm a passionate web developer with a background that blends<br>electronic engineering, astronomy, and teaching.<br><br>My professional journey has taken me from observing the stars to coding applications.<br>This diversity of experience gives me a valuable perspective<br>to solve problems and create innovative solutions.<br><br>I have sought and found opportunities to work from different parts of the world,<br>which has taught me to adapt quickly to new environments<br>and collaborate effectively with multicultural teams.
+My name is Alejandra Lorena Rachich, people know me as Lore or Alexa.<br>I'm a passionate web developer with a background that blends<br>electronic engineering, astronomy, and teaching.<br><br>My professional journey has taken me from observing the stars to coding applications.<br>This diversity of experience gives me a valuable perspective<br>to solve problems and create innovative solutions.<br><br>I have sought and found opportunities to work from different parts of the world,<br>which has taught me to adapt quickly to new environments<br>and collaborate effectively with multicultural teams.
 
 
 ## 🌐 Socials:
