@@ -33,7 +33,7 @@ Check out some of my favorites:
 - https://alexa-2k.github.io/CaC_Movies-JAVA/
 - https://alexa-2k.github.io/Tienda_de_Cafe-Clone/
 - https://alexa-2k.github.io/ConferenciaBA/
-- https://alexa-2k.github.io/Nuevo-Portfolio/
+- https://alexa-2k.github.io/Nuevo-Portfolio/ (in development)
 
 See more on https://github.com/Alexa-2k?tab=repositories
 
@@ -52,7 +52,6 @@ See more on https://github.com/Alexa-2k?tab=repositories
 ##  Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/lorena-rachich/)
-- [Portfolio](https://alexa-2k.github.io/Nuevo-Portfolio/)
 
 ---
 
