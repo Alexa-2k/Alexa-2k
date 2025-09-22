@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Alexa</h1>
 <p align="center">
-  <i>Your friendly neighborhood teacher, cloud and world explorer, and cosmic baker!</i>
+  <i>Your friendly neighborhood teacher, cloud and world explorer, and cosmic baker</i>
 </p>
 
 ---
