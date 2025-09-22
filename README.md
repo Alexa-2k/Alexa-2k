@@ -9,9 +9,9 @@
 
 - **Teacher** of private lessons in computer literacy, mathematics, physics & chemistry
 - Currently wrapping up my **Advanced Technical Degree in Software Development** (Instituto Superior de Formación Técnica N° 29, Buenos Aires)
-- Lifelong learner—studied **Electronic Engineering** and **Astronomy** for extra cosmic powers (also great for stargazing!)
+- Lifelong learner—studied **Electronic Engineering** and **Astronomy** for extra cosmic powers (also great for stargazing 😉)
 - Eager student at **AWS Academy Cloud Architecture**, designing scalable, secure cloud solutions
-- Adventurer at heart: I have sought and found opportunities to work from different parts of the world, which means I've mastered the art of quick adaptation and collaborating with multicultural teams! (You should see my collection of T-shirts from around the globe.)
+- Adventurer at heart: I have sought and found opportunities to work from different parts of the world, which means I've mastered the art of quick adaptation and collaborating with multicultural teams (You should see my collection of T-shirts from around the globe.)
 
 ---
 
