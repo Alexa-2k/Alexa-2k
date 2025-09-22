@@ -26,7 +26,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 Check out some of my favorites:
 - https://alexa-2k.github.io/Drumkit/
@@ -45,7 +45,7 @@ See more on https://github.com/Alexa-2k?tab=repositories
 - Jamming to rock and baroque music 
 - Baking up tasty treats 
 - Growing plants and dreaming of green thumbs 
-- Traveling and learning new languages 🛤
+- Traveling and learning new languages 
 
 ---
 
@@ -55,12 +55,8 @@ See more on https://github.com/Alexa-2k?tab=repositories
 
 ---
 
-> “Learning is a journey, not a destination. Let’s enjoy the ride together!” 
-
----
-
 <p align="center">
-  <i>Feel free to say hi, ask about the stars, or share your favorite recipe!</i>
+  <i>Feel free to say hi, ask about the stars, or share your favorite recipe 😉</i>
 </p>
 
 # 💻 Tech Stack:
