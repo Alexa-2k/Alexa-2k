@@ -42,7 +42,8 @@ See more on https://github.com/Alexa-2k?tab=repositories
 ##  When I’m not coding, I am ...
 
 - Stargazing and exploring the universe 
-- Jamming to rock and baroque music 
+- Jamming to rock and baroque music
+- Collecting tools and fixing things.
 - Baking up tasty treats 
 - Growing plants and dreaming of green thumbs 
 - Traveling and learning new languages 
